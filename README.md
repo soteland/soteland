@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @soteland
-- 👀 I’m interested in coding, computers and stuff.
-- 🌱 I’m currently learning C#, React, Apis
+- 👀 I’m interested in coding, computers, servers and stuff.
+- 🌱 I’m currently learning dotnet, React and Apis
+- 🧑‍💻 Feeling increasingly like a full stack dev
 
 <!---
 soteland/soteland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
