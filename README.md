@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @soteland
-- 👀 I’m interested in coding, computers, servers and stuff.
-- 🌱 I’m currently learning dotnet, React and APIs
-- 🧑‍💻 Feeling like a junior full stack dev
-- ✨ Using AI to be more productive
+- 👀 Very fond of coding, computers, servers and stuff.
+- 🌱 I’m currently refining skills in dotnet, React and APIs
+- 🧑‍💻 Feeling like a junior+ full stack dev
+- 🎮 LEGO and games also take some of my time
+- ✨ Trying to use AI to be more productive
 
 <!---
 soteland/soteland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
